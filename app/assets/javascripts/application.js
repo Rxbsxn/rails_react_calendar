@@ -16,4 +16,6 @@
 //= require react
 //= require react_ujs
 //= require components
+//= require moment
+//= require react-datetime.min
 //= require_tree .
